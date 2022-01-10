@@ -1,0 +1,16 @@
+:root {
+    --white-color: #fff;
+    --black-color: #000;
+    --primary-color: #ff6500;
+}
+* {
+    padding: 0;
+    margin: 0;
+    outline: none;
+    box-sizing: border-box;
+}
+
+html {
+    font-family:roboto,sans-serif;
+
+}
